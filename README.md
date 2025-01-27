@@ -7,7 +7,7 @@ A web app for managing users. You can add, edit, and delete users easily.
 __Setup Instructions__
 Clone the repository:
 
-bash
+by adding below line in terminal
 
 git clone https://github.com/Atharv-03-cyber/Ajackus-dashboard-assignment.git
 
