@@ -13,12 +13,13 @@ git clone https://github.com/Atharv-03-cyber/Ajackus-dashboard-assignment.git
 
 Install dependencies: In your project folder, run:
 
-bash
+then in terminal type 
 
 npm install
 Run the app: Start the development server:
 
-bash
+and then type
+
 npm start
 
 
