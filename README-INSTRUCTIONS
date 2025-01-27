@@ -13,7 +13,6 @@ git clone <repository-url>
 Install dependencies: In your project folder, run:
 
 bash
-Copy
 npm install
 Run the app: Start the development server:
 
